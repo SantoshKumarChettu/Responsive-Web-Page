@@ -1,0 +1,29 @@
+/*
+a) isLeap()
+b)Assuming 1st MArch is Tuesday take input any number(1-31) and print day on that date.
+1)
+*
+**
+***
+
+2)
+***
+**
+*
+
+3)
+  *
+ **
+***
+
+4)
+***
+ **
+  *
+  
+5)
+  *
+ * *
+* * *
+
+*/
